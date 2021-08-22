@@ -1,0 +1,38 @@
+
+body{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.headings{
+    padding-top: 5%;
+}
+img{
+    width: max-content;
+}
+#img-div{
+    background-color: white;
+    margin: 0 10%;
+}
+#img-caption{
+    padding-bottom: 3%;
+}
+
+main{
+    background-color: rgb(224, 222, 222);
+    position: relative;
+    
+}
+#up{
+    text-align: center;
+}
+#down{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+ul li{
+    margin-top: 5%;
+}
+#last{
+    text-align: center;
+    font-weight: 800;
+}
